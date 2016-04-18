@@ -1,0 +1,5 @@
+tests\TestAddUser.class
+tests\TestAssignOfferToProvider.class
+tests\TestFindAllUsers.class
+tests\TestFindAllProviders.class
+tests\TestFindOffersByProviderId.class

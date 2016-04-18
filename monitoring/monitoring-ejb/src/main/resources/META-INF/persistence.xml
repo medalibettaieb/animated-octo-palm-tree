@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="monitoring-ejb">
+		<jta-data-source>java:/DS</jta-data-source>
+		<class>tn.esprit.irt.monitoring.persistence.Client</class>
+		<class>tn.esprit.irt.monitoring.persistence.Metric</class>
+		<class>tn.esprit.irt.monitoring.persistence.Offer</class>
+		<class>tn.esprit.irt.monitoring.persistence.Provider</class>
+		<class>tn.esprit.irt.monitoring.persistence.SlaLigne</class>
+		<class>tn.esprit.irt.monitoring.persistence.SlaLigneId</class>
+		<class>tn.esprit.irt.monitoring.persistence.User</class>
+		<properties>
+			<property name="hibernate.hbm2ddl.auto" value="create-drop"/>
+		</properties>
+	</persistence-unit>
+</persistence>

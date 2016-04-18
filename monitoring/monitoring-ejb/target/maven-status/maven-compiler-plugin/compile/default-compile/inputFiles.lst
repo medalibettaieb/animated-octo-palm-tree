@@ -1,0 +1,16 @@
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\util\Utilities.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\persistence\Metric.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\persistence\User.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\services\impl\UserServices.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\persistence\MetricDetailId.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\services\interfaces\UserServicesLocal.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\persistence\MetricDetail.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\persistence\Offer.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\persistence\Client.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\persistence\SlaLigne.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\services\interfaces\OfferServicesLocal.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\persistence\SlaLigneId.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\services\interfaces\OfferServicesRemote.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\services\interfaces\UserServicesRemote.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\persistence\Provider.java
+E:\workspace\pdev\monitoring\monitoring-ejb\src\main\java\tn\esprit\irt\monitoring\services\impl\OfferServices.java

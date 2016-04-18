@@ -1,0 +1,16 @@
+tn\esprit\irt\monitoring\persistence\SlaLigne.class
+tn\esprit\irt\monitoring\services\interfaces\UserServicesLocal.class
+tn\esprit\irt\monitoring\services\interfaces\UserServicesRemote.class
+tn\esprit\irt\monitoring\persistence\MetricDetail.class
+tn\esprit\irt\monitoring\persistence\Offer.class
+tn\esprit\irt\monitoring\persistence\User.class
+tn\esprit\irt\monitoring\services\interfaces\OfferServicesRemote.class
+tn\esprit\irt\monitoring\services\interfaces\OfferServicesLocal.class
+tn\esprit\irt\monitoring\persistence\Provider.class
+tn\esprit\irt\monitoring\util\Utilities.class
+tn\esprit\irt\monitoring\persistence\SlaLigneId.class
+tn\esprit\irt\monitoring\persistence\Client.class
+tn\esprit\irt\monitoring\persistence\MetricDetailId.class
+tn\esprit\irt\monitoring\services\impl\UserServices.class
+tn\esprit\irt\monitoring\persistence\Metric.class
+tn\esprit\irt\monitoring\services\impl\OfferServices.class
